@@ -1,0 +1,31 @@
+_repo: A-history-of-land-mammals-in-the-Western-Hemisphere_75110
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, William Berryman
+    alias: Scott, W. B. (William Berryman)
+    birthdate: 1858
+    deathdate: 1947
+    gutenberg_agent_id: '52906'
+    url: http://www.gutenberg.org/2009/agents/52906
+    wikipedia: https://en.wikipedia.org/wiki/William_Berryman_Scott
+description: ''
+gutenberg_issued: '2025-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75110'
+language: en
+pgterms:marc904: https://archive.org/details/historyoflandmam00scot
+pgterms:marc905: 20220911092429scott
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe MacMillan Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A history of land mammals in the Western Hemisphere
+url: http://www.gutenberg.org/ebooks/75110
